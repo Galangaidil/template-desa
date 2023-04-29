@@ -232,3 +232,5 @@ dist
 
 # tailwind css compiled files
 dist/
+
+.DS_Store

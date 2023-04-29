@@ -49,7 +49,7 @@ function connectorDefaults(connector) {
 }
 
 //Funtion to add the Template of the Node.
-function setNodeTemplate(obj, diagram) {
+function setNodeTemplate(obj) {
     // create the stack panel
     const content = new ej.diagrams.StackPanel();
     content.id = obj.id + '_outerstack';

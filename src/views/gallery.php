@@ -67,7 +67,7 @@
 
         <dialog id="modal-image">
             <img class="h-auto max-w-full rounded-lg"
-                 src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-11.jpg" alt="" id="image-container">
+                 src="" alt="" id="image-container">
             <!-- close button -->
             <button id="close-modal-image"
                     class="absolute right-0 top-0 p-3 m-3 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-500 dark:text-gray-400 focus:outline-none focus:ring-2">

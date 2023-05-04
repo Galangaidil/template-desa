@@ -1,5 +1,5 @@
 <section>
-    <div class="mx-auto max-w-screen-xl px4 py-6 lg:py-8">
+    <div class="mx-auto max-w-screen-xl px-4 py-6 lg:py-8">
         <h4 class="text-2xl font-bold dark:text-white mb-6">Agenda Kegiatan</h4>
 
         <ol class="relative border-l border-turquoise-200 dark:border-turquoise-700 max-w-xl">

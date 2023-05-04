@@ -4,7 +4,7 @@
 
         <!-- cek data perangkat desa di ./src/js/datasource.js -->
         <!-- implementasi chart di ./src/js/app.js -->
-        <div id="diagram" class="rounded"></div>
+        <div id="diagram" class="rounded dark:bg-turquoise-950"></div>
 
         <div class="max-w-xl mt-4">
             <p class="mb-3 text-gray-500 dark:text-gray-400">

@@ -63,25 +63,7 @@
                 <li>
                     <a href="#"
                        class="block py-2 pl-3 pr-4 text-turquoise-900 rounded hover:bg-turquoise-100 lg:hover:bg-transparent lg:border-0 lg:hover:text-turquoise-700 lg:p-0 dark:text-white lg:dark:hover:text-turquoise-500 dark:hover:bg-turquoise-700 dark:hover:text-white lg:dark:hover:bg-transparent">
-                        Regulasi
-                    </a>
-                </li>
-                <li>
-                    <a href="#"
-                       class="block py-2 pl-3 pr-4 text-turquoise-900 rounded hover:bg-turquoise-100 lg:hover:bg-transparent lg:border-0 lg:hover:text-turquoise-700 lg:p-0 dark:text-white lg:dark:hover:text-turquoise-500 dark:hover:bg-turquoise-700 dark:hover:text-white lg:dark:hover:bg-transparent">
                         Peta
-                    </a>
-                </li>
-                <li>
-                    <a href="#"
-                       class="block py-2 pl-3 pr-4 text-turquoise-900 rounded hover:bg-turquoise-100 lg:hover:bg-transparent lg:border-0 lg:hover:text-turquoise-700 lg:p-0 dark:text-white lg:dark:hover:text-turquoise-500 dark:hover:bg-turquoise-700 dark:hover:text-white lg:dark:hover:bg-transparent">
-                        SGDs
-                    </a>
-                </li>
-                <li>
-                    <a href="#"
-                       class="block py-2 pl-3 pr-4 text-turquoise-900 rounded hover:bg-turquoise-100 lg:hover:bg-transparent lg:border-0 lg:hover:text-turquoise-700 lg:p-0 dark:text-white lg:dark:hover:text-turquoise-500 dark:hover:bg-turquoise-700 dark:hover:text-white lg:dark:hover:bg-transparent">
-                        IDM
                     </a>
                 </li>
                 <li>

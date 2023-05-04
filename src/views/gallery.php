@@ -65,7 +65,7 @@
             </div>
         </div>
 
-        <dialog id="modal-image">
+        <dialog id="modal-image" class="rounded backdrop-blur-sm bg-white/30 dark:bg-black/30">
             <img class="h-auto max-w-full rounded-lg"
                  src="" alt="" id="image-container">
             <!-- close button -->

@@ -65,7 +65,7 @@
                     </label>
                     <div class="mt-1">
                         <input type="text" name="nik" id="nik" required
-                               class="shadow-sm focus:ring-turquoise-500 focus:border-turquoise-500 block w-full sm:text-sm border-gray-300 rounded-md dark:bg-gray-700 dark:text-gray-300">
+                               class="shadow-sm focus:ring-turquoise-500 focus:border-turquoise-500 block w-full sm:text-sm border-gray-300 rounded-md dark:bg-gray-700 dark:border-gray-600 dark:text-gray-300">
                     </div>
                 </div>
 
@@ -76,7 +76,7 @@
                     </label>
                     <div class="mt-1">
                         <input type="text" name="name" id="name" autocomplete="name" required
-                               class="shadow-sm focus:ring-turquoise-500 focus:border-turquoise-500 block w-full sm:text-sm border-gray-300 rounded-md dark:bg-gray-700 dark:text-gray-300">
+                               class="shadow-sm focus:ring-turquoise-500 focus:border-turquoise-500 block w-full sm:text-sm border-gray-300 rounded-md dark:bg-gray-700 dark:border-gray-600 dark:text-gray-300">
                     </div>
                 </div>
 
@@ -87,7 +87,7 @@
                     </label>
                     <div class="mt-1">
                         <input id="email" name="email" type="email" autocomplete="email"
-                               class="shadow-sm focus:ring-turquoise-500 focus:border-turquoise-500 block w-full sm:text-sm border-gray-300 rounded-md dark:bg-gray-700 dark:text-gray-300">
+                               class="shadow-sm focus:ring-turquoise-500 focus:border-turquoise-500 block w-full sm:text-sm border-gray-300 rounded-md dark:bg-gray-700 dark:border-gray-600 dark:text-gray-300">
                     </div>
                 </div>
 
@@ -98,7 +98,7 @@
                     </label>
                     <div class="mt-1">
                         <input type="tel" name="phone" id="phone" autocomplete="tel" required
-                               class="shadow-sm focus:ring-turquoise-500 focus:border-turquoise-500 block w-full sm:text-sm border-gray-300 rounded-md dark:bg-gray-700 dark:text-gray-300">
+                               class="shadow-sm focus:ring-turquoise-500 focus:border-turquoise-500 block w-full sm:text-sm border-gray-300 rounded-md dark:bg-gray-700 dark:border-gray-600 dark:text-gray-300">
                     </div>
                 </div>
 
@@ -109,7 +109,7 @@
                     </label>
                     <div class="mt-1">
                         <input type="text" name="judul" id="judul" required
-                               class="shadow-sm focus:ring-turquoise-500 focus:border-turquoise-500 block w-full sm:text-sm border-gray-300 rounded-md dark:bg-gray-700 dark:text-gray-300">
+                               class="shadow-sm focus:ring-turquoise-500 focus:border-turquoise-500 block w-full sm:text-sm border-gray-300 rounded-md dark:bg-gray-700 dark:border-gray-600 dark:text-gray-300">
                     </div>
                 </div>
 
@@ -120,7 +120,7 @@
                     </label>
                     <div class="mt-1">
                         <textarea id="isi" name="isi" rows="3" required
-                                  class="shadow-sm focus:ring-turquoise-500 focus:border-turquoise-500 block w-full sm:text-sm border-gray-300 rounded-md dark:bg-gray-700 dark:text-gray-300"></textarea>
+                                  class="shadow-sm focus:ring-turquoise-500 focus:border-turquoise-500 block w-full sm:text-sm border-gray-300 rounded-md dark:bg-gray-700 dark:border-gray-600 dark:text-gray-300"></textarea>
                     </div>
                 </div>
 

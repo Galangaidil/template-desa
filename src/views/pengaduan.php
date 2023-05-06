@@ -5,7 +5,7 @@
         <div class="flex flex-wrap flex-col lg:flex-row justify-start items-center gap-4">
             <!-- Trigger pengaduan form -->
             <button id="open-modal-pengaduan"
-                    class="w-full lg:w-auto inline-flex items-center px-3 py-2.5 text-sm font-medium text-center text-white dark:text-black bg-turquoise-600 rounded-lg hover:bg-turquoise-700 focus:ring-4 focus:outline-none focus:ring-turquoise-300 dark:bg-turquoise-400 dark:hover:bg-turquoise-500 dark:focus:ring-turquoise-800">
+                    class="w-full lg:w-auto btn-primary">
                 Formulir pengaduan
             </button>
 
@@ -14,7 +14,7 @@
                 <label for="status" class="sr-only">Pilih status pengaduan</label>
 
                 <select id="status" name="status"
-                        class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-turquoise-500 focus:border-turquoise-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-turquoise-500 dark:focus:border-turquoise-500">
+                        class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-turquoise-500 focus:border-turquoise-500 block w-full p-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-turquoise-500 dark:focus:border-turquoise-500">
                     <option selected disabled>Pilih status</option>
                     <option value="semua">Semua</option>
                     <option value="Menunggu Diproses">Menunggu Diproses</option>
@@ -38,7 +38,7 @@
                            class="block w-full p-4 pl-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-turquoise-500 focus:border-turquoise-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-turquoise-500 dark:focus:border-turquoise-500"
                            placeholder="Cari pengaduan..." required>
                     <button type="submit"
-                            class="text-white dark:text-black absolute right-2.5 bottom-2.5 bg-turquoise-600 hover:bg-turquoise-700 focus:ring-4 focus:outline-none focus:ring-turquoise-300 font-medium rounded-lg text-sm px-4 py-2 dark:bg-turquoise-400 dark:hover:bg-turquoise-500 dark:focus:ring-turquoise-800">
+                            class="absolute right-2.5 bottom-2.5 btn-primary">
                         Cari
                     </button>
                 </div>
@@ -147,7 +147,7 @@
                 <!-- tombol cancel dan submit -->
                 <div class="mt-4 flex justify-end">
                     <button type="button" id="close-modal-pengaduan" formmethod="dialog"
-                            class="px-4 py-2 rounded-md text-sm font-medium text-gray-700 dark:text-gray-300 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-turquoise-500">
+                            class="btn-secondary">
                         Cancel
                     </button>
                     <button type="submit"

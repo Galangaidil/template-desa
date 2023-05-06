@@ -19,7 +19,7 @@
                             Cuplikan kata-kata dari sebuah berita in reverse chronological order.
                         </p>
                         <a href="#"
-                           class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white dark:text-black bg-turquoise-600 rounded-lg hover:bg-turquoise-700 focus:ring-4 focus:outline-none focus:ring-turquoise-300 dark:bg-turquoise-400 dark:hover:bg-turquoise-500 dark:focus:ring-turquoise-800">
+                           class="btn-primary">
                             Selengkapnya
                             <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20"
                                  xmlns="http://www.w3.org/2000/svg">

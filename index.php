@@ -32,23 +32,19 @@
     <main>
         <?php include_once "./src/views/jumbotron.php"; ?>
 
+        <?php include_once "./src/views/berita-dan-agenda.php"; ?>
+
+        <?php include_once "./src/views/galeri.php"; ?>
+
         <?php include_once "./src/views/profile.php"; ?>
 
         <?php include_once "./src/views/struktur-pemerintahan-desa.php"; ?>
-
-        <?php include_once "./src/views/agenda.php"; ?>
-
-        <?php include_once "./src/views/layanan-publik.php"; ?>
-
-        <?php include_once "./src/views/berita.php"; ?>
-
-        <?php include_once "./src/views/gallery.php"; ?>
-
-        <?php include_once "./src/views/pengaduan.php"; ?>
     </main>
 </div>
 
 <?php include_once "./src/views/footer.php"; ?>
+
+<script src="node_modules/flowbite/dist/flowbite.min.js"></script>
 
 <script type="module" src="./src/js/app.js"></script>
 </body>

@@ -11,56 +11,56 @@
         <div class="grid grid-cols-3 lg:grid-cols-9 gap-4">
             <a href="#"
                class="bg-turquoise-50 dark:bg-turquoise-950 rounded px-3 py-2 lg:p-3 space-y-2 group dark:border dark:border-turquoise-800">
-                <img loading="lazy" src="https://bontomasila.desa.id/desa/themes/tema-silir-3.7.3/assets/images/map.png"
+                <img loading="lazy" src="../../src/images/news.png"
                      alt="Peta Desa" class="w-auto mx-auto py-2 h-12 group-hover:scale-125 transition duration-200">
                 <span
-                    class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Peta Desa</span>
+                    class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Berita</span>
             </a>
             <a href="#"
                class="bg-turquoise-50 dark:bg-turquoise-950 rounded px-3 py-2 lg:p-3 space-y-2 group dark:border dark:border-turquoise-800">
                 <img loading="lazy"
-                     src="https://bontomasila.desa.id/desa/themes/tema-silir-3.7.3/assets/images/compliant.png"
+                     src="../../src/images/notebook.png"
                      alt="Peta Desa" class="w-auto mx-auto py-2 h-12 group-hover:scale-125 transition duration-200">
                 <span
-                    class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Produk Hukum</span>
+                    class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Agenda</span>
             </a>
             <a href="#"
                class="bg-turquoise-50 dark:bg-turquoise-950 rounded px-3 py-2 lg:p-3 space-y-2 group dark:border dark:border-turquoise-800">
                 <img loading="lazy"
-                     src="https://bontomasila.desa.id/desa/themes/tema-silir-3.7.3/assets/images/document.png"
+                     src="../../src/images/gallery.png"
                      alt="Peta Desa" class="w-auto mx-auto py-2 h-12 group-hover:scale-125 transition duration-200">
-                <span class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Informasi Publik</span>
+                <span class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Galeri</span>
             </a>
             <a href="#"
                class="bg-turquoise-50 dark:bg-turquoise-950 rounded px-3 py-2 lg:p-3 space-y-2 group dark:border dark:border-turquoise-800">
                 <img loading="lazy"
-                     src="https://bontomasila.desa.id/desa/themes/tema-silir-3.7.3/assets/images/trolley.png"
+                     src="../../src/images/teamwork.png"
                      alt="Peta Desa" class="w-auto mx-auto py-2 h-12 group-hover:scale-125 transition duration-200">
-                <span class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Lapak</span>
+                <span class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Perangkat Desa</span>
             </a>
             <a href="#"
                class="bg-turquoise-50 dark:bg-turquoise-950 rounded px-3 py-2 lg:p-3 space-y-2 group dark:border dark:border-turquoise-800">
                 <img loading="lazy"
-                     src="https://bontomasila.desa.id/desa/themes/tema-silir-3.7.3/assets/images/archive.png"
-                     alt="Peta Desa" class="w-auto mx-auto py-2 h-12 group-hover:scale-125 transition duration-200">
-                <span
-                    class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Arsip Berita</span>
-            </a>
-            <a href="#"
-               class="bg-turquoise-50 dark:bg-turquoise-950 rounded px-3 py-2 lg:p-3 space-y-2 group dark:border dark:border-turquoise-800">
-                <img loading="lazy"
-                     src="https://bontomasila.desa.id/desa/themes/tema-silir-3.7.3/assets/images/image-gallery.png"
+                     src="../../src/images/vote.png"
                      alt="Peta Desa" class="w-auto mx-auto py-2 h-12 group-hover:scale-125 transition duration-200">
                 <span
-                    class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Album Galeri</span>
+                    class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Polling</span>
             </a>
             <a href="#"
                class="bg-turquoise-50 dark:bg-turquoise-950 rounded px-3 py-2 lg:p-3 space-y-2 group dark:border dark:border-turquoise-800">
                 <img loading="lazy"
-                     src="https://bontomasila.desa.id/desa/themes/tema-silir-3.7.3/assets/images/announcement.png"
+                     src="../../src/images/partners.png"
                      alt="Peta Desa" class="w-auto mx-auto py-2 h-12 group-hover:scale-125 transition duration-200">
                 <span
-                    class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Pengaduan</span>
+                    class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Organisasi Desa</span>
+            </a>
+            <a href="#"
+               class="bg-turquoise-50 dark:bg-turquoise-950 rounded px-3 py-2 lg:p-3 space-y-2 group dark:border dark:border-turquoise-800">
+                <img loading="lazy"
+                     src="../../src/images/report.png"
+                     alt="Peta Desa" class="w-auto mx-auto py-2 h-12 group-hover:scale-125 transition duration-200">
+                <span
+                    class="text-center text-xs block break-words text-gray-900 dark:text-turquoise-400">Infografis</span>
             </a>
             <a href="#"
                class="bg-turquoise-50 dark:bg-turquoise-950 rounded px-3 py-2 lg:p-3 space-y-2 group dark:border dark:border-turquoise-800">

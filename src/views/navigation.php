@@ -1,11 +1,13 @@
 <nav
-    class="fixed top-0 left-0 z-50 h-16 w-full bg-turquoise-100 border-turquoise-200 dark:bg-turquoise-950 dark:border-turquoise-900">
+    class="fixed top-0 left-0 z-50 h-16 md:h-20 w-full bg-turquoise-100 border-turquoise-200 dark:bg-turquoise-950 dark:border-turquoise-900">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <!-- Logo -->
         <a href="/" class="flex items-center">
             <img src="https://bontomasila.desa.id/desa/logo/Bulukumba_100x100__sid__QlgwPX4.png" class="h-8 mr-3"
                  alt="Sako Logo"/>
-            <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Sako</span>
+            <span class="self-center text-base font-semibold whitespace-nowrap dark:text-white">Desa Sako <br>
+                <span class="hidden md:block">Kec. Pangean, Kab. Kuantan Singingi</span>
+            </span>
         </a>
 
         <div class="flex items-center">
